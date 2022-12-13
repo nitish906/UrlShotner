@@ -10,4 +10,4 @@
  
 ### E-R Diagram Of Covid-19 Application
 ---
-<div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351"><div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=2F35A141C80C27E83741FB57B6789FAC1BF" target="_blank"><img src="https://cloud.smartdraw.com/cloudstorage/2F35A141C80C27E83741FB57B6789FAC1BF/preview2.png"></a></div></div>
+<div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351"><div id="2F35A141C80C27E83741FB57B6789FAC1BF_2351_robot"><a href="https://cloud.smartdraw.com/share.aspx/?pubDocShare=2F35A141C80C27E83741FB57B6789FAC1BF" target="_blank"><img src="https://github.com/nitish906/UrlShotner/blob/main/12.png"></a></div></div>
